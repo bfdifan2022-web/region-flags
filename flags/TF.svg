@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="rect5" x="0" y="0" width="600" height="400" style="fill:rgb(0,38,84);"/>
+    <rect id="rect7" x="0" y="0" width="244" height="164" style="fill:white;"/>
+    <g id="TAAF_Icône.svg" transform="matrix(0.75477,0,0,0.75477,428.006,282.004)">
+        <g transform="matrix(1,0,0,1,-150,-150)">
+            <path d="M72.413,25.354L88.789,51.428L135.373,51.428L135.373,142.37L100.395,87.678L53.334,162.721L76.229,162.721L100.396,119.476L150,208.51L199.604,119.476L223.771,162.721L246.666,162.721L199.604,87.678L164.626,142.37L164.626,92.129L185.612,92.129L201.193,67.326L164.626,67.326L164.626,51.428L211.21,51.428L227.586,25.354L72.413,25.354ZM127.105,136.646L76.229,136.646L76.229,154.453L127.105,154.453L127.105,136.646ZM223.771,136.646L172.894,136.646L172.894,154.453L223.771,154.453L223.771,136.646Z" style="fill:white;fill-rule:nonzero;"/>
+            <g>
+                <path id="s" d="M150,226.316L165.7,274.635L124.596,244.772L175.403,244.772L134.3,274.636L150,226.316Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g>
+                <path id="s_1_" d="M92.764,183.071L108.464,231.39L67.36,201.527L118.167,201.527L77.063,231.39L92.764,183.071Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g>
+                <path id="s_2_" d="M207.236,183.071L222.936,231.39L181.832,201.527L232.639,201.527L191.535,231.39L207.236,183.071Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g>
+                <path id="s_3_" d="M44.431,54.607L60.132,102.926L19.027,73.064L69.834,73.064L28.73,102.927L44.431,54.607Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g>
+                <path id="s_4_" d="M255.569,54.607L271.269,102.926L230.165,73.063L280.972,73.063L239.868,102.926L255.569,54.607Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Flag_of_France_-1794-1815-_1830-1974-_2020-present---4-.svg" serif:id="Flag_of_France_(1794–1815,_1830–1974,_2020–present) (4).svg" transform="matrix(0.266667,0,0,0.266667,120,80)">
+        <g transform="matrix(1,0,0,1,-450,-300)">
+            <path d="M0,0L900,0L900,600L0,600" style="fill:rgb(206,17,38);fill-rule:nonzero;"/>
+            <path d="M0,0L600,0L600,600L0,600" style="fill:white;fill-rule:nonzero;"/>
+            <path d="M0,0L300,0L300,600L0,600" style="fill:rgb(0,38,84);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>
